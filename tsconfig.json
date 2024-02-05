@@ -1,0 +1,11 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "noImplicitThis": true,
+    "jsxImportSource": "", // vue3.3 才能设置为 `vue`
+    "types": [
+      "vite/client",
+      "./types"
+    ]
+  }
+}

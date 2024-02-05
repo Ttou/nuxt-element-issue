@@ -1,0 +1,18 @@
+{
+  "path-intellisense.mappings": {
+    "@": "${workspaceFolder}/src"
+  },
+  "eslint.enable": false,
+  "stylelint.enable": false,
+  "cSpell.words": [
+    "consola",
+    "defu",
+    "iconify",
+    "nuxi",
+    "nuxt",
+    "pinia",
+    "preinstall",
+    "unplugin",
+    "vueuse"
+  ]
+}
